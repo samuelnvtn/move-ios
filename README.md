@@ -4,7 +4,7 @@
   <strong>Visit new places. Earn points. Move your body.</strong>
 </p>
 
-**MOVE** is a native iOS application that acts as your personal travel assistant and gamified explorer. Simply select interesting places on the map, and the integrated AI takes care of the rest—from proposing a logical route and estimating time to providing transit instructions. 
+**MOVE** is a native iOS application that acts as your personal travel assistant and gamified explorer. Simply select interesting places on the map, and the integrated AI takes care of the rest, from proposing a logical route and estimating time to providing transit instructions. 
 
 To make exploring more fun, each location features unique, AI-generated interactive tasks. By completing them, users earn experience points (XP), unlock themed badges, and track their daily activity.
 
