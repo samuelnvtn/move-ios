@@ -11,15 +11,15 @@ To make exploring more fun, each location features unique, AI-generated interact
 ## Screenshots
 
 <p align="center">
-  <img src="dashboard.png" width="250" alt="Dashboard">
-  <img src="map.png" width="250" alt="Interactive Map">
-  <img src="planner-prompt.png" width="250" alt="AI Planner Prompt">
+  <img src="Screenshots/dashboard.png" width="250" alt="Dashboard">
+  <img src="Screenshots/map.png" width="250" alt="Interactive Map">
+  <img src="Screenshots/planner-prompt.png" width="250" alt="AI Planner Prompt">
 </p>
 
 <p align="center">
-  <img src="itinerary.png" width="250" alt="Generated Itinerary">
-  <img src="tasks.png" width="250" alt="AI Generated Tasks">
-  <img src="stats.png" width="250" alt="User Stats and Badges">
+  <img src="Screenshots/itinerary.png" width="250" alt="Generated Itinerary">
+  <img src="Screenshots/tasks.png" width="250" alt="AI Generated Tasks">
+  <img src="Screenshots/stats.png" width="250" alt="User Stats and Badges">
 </p>
 
 ## Key Features
